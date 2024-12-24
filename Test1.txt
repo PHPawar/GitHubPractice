@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 First line of code
 buggy code added
+=======
+>>>>>>> parent of 5661ed2 (modified)
